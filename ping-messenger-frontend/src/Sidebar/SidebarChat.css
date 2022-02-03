@@ -1,0 +1,29 @@
+.sidebarChat {
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 1px solod #f6f6f6;
+    text-decoration:none; 
+    cursor:pointer; 
+    
+}
+
+.sidebarChat:hover {
+    background-color: #ebebeb;
+}
+
+.sidebarChat_info  > h2 {
+    font-size: 16px;
+    margin-bottom: 8px;
+
+}
+
+.sidebarChat_info {
+    margin-left: 15px;
+
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
